@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cadastro-de-Funcionarios/static/css/main.88b6de87.css",
+    "main.js": "/Cadastro-de-Funcionarios/static/js/main.ef02e6e6.js",
+    "index.html": "/Cadastro-de-Funcionarios/index.html",
+    "main.88b6de87.css.map": "/Cadastro-de-Funcionarios/static/css/main.88b6de87.css.map",
+    "main.ef02e6e6.js.map": "/Cadastro-de-Funcionarios/static/js/main.ef02e6e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b6de87.css",
+    "static/js/main.ef02e6e6.js"
+  ]
+}
